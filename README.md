@@ -23,7 +23,6 @@ Desde los 17 años me empezó a fascinar cómo los datos pueden contar historias
 
 - Business Intelligence
 - Análisis predictivo
-- Ciencia de datos aplicada a la educación, el deporte y el comportamiento humano
 - Automatización de tareas y limpieza de datos
 
 ---
