@@ -1,47 +1,62 @@
 # 👋 ¡Hola! Soy Luca Riveron
 
-Soy estudiante de Estadística, entusiasta del análisis de datos y la programación. Me apasiona transformar información en conocimiento útil para la toma de decisiones, y disfruto trabajar en proyectos donde se combinan la lógica, la claridad y el impacto real.
+Soy estudiante de Estadística, enfocado en el análisis de datos y la programación.  
+Me apasiona transformar información en conocimiento útil para mejorar la toma de decisiones.  
+Busco oportunidades para colaborar en proyectos reales y seguir creciendo como Analista de Datos.
 
 ---
 
-### 📊 Sobre mí
+## 🚀 Tecnologías y herramientas que uso
 
-Desde los 17 años me empezó a fascinar cómo los datos pueden contar historias, explicar comportamientos y ayudarnos a entender mejor el mundo. Me gusta trabajar con información desordenada, limpiarla, organizarla y transformarla en algo claro y útil. Pero sobre todo, disfruto explicar lo que los datos dicen y comunicarlo de forma simple, para que cualquiera pueda entenderlo. No es solo analizar, es dar sentido. Y eso es lo que más me motiva.
+**Lenguajes:**  
+- Python (pandas, numpy, matplotlib, seaborn)  
+- SQL (MySQL, PostgreSQL)  
+- R (intermedio)
 
----
+**Visualización:**  
+- Tableau  
+- Power BI  
+- Excel avanzado (Tablas, Dashboard, Power Query)
 
-### 🛠️ Tecnologías y herramientas que manejo
-
-- **Lenguajes y análisis**: R, SQL, Python (básico)
-- **Visualización de datos**: Tableau, Excel, ggplot2
-- **Manipulación de datos**: tidyverse, Power Query
-- **Control de versiones**: Git & GitHub
-
----
-
-### 🚀 Intereses actuales
-
-- Business Intelligence
-- Análisis predictivo
-- Automatización de tareas y limpieza de datos
+**Otros:**  
+- Git/GitHub  
+- Google Sheets  
+- Jupyter Notebooks  
 
 ---
 
-### 📚 Formación
+## 📊 Proyectos Destacados
+*(A medida que los vayas creando los agregamos acá con links)*
 
-- Estudiante de la Licenciatura en Estadística
-- Formación complementaria en cursos de SQL, R, Excel avanzado y Tableau
-
----
-
-### 🤝 ¿Colaboramos?
-
-Siempre estoy buscando oportunidades para seguir aprendiendo, participar en proyectos reales o colaborar en análisis de datos. Si tenés una idea, una propuesta o simplemente querés intercambiar ideas, ¡estoy abierto a charlar!
+- **Análisis del mercado inmobiliario en Montevideo** – Python + SQL + Tableau  
+- **Dashboard de rendimiento deportivo (Running - Garmin)** – Análisis + KPIs + comparativas  
+- **Proyecto World Cup Database** – SQL completo (freeCodeCamp)
 
 ---
 
-### 📫 Contacto
+## 🎯 Intereses Actuales
+- Business Intelligence  
+- Limpieza y análisis de datos  
+- Aprendizaje de modelos estadísticos ligeros  
+- Data storytelling  
 
-- 📧 lucafcea@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/luca-riveron-1b8766102/)  
-- 🌍 Montevideo, Uruguay  
+---
+
+## 🎓 Formación
+- Licenciatura en Estadística – FCEA, UdelaR  
+- Proyecto final del curso SQL (freeCodeCamp)  
+- Formación práctica en Python, SQL y Tableau
+
+---
+
+## 🤝 ¿Colaboramos?
+Estoy abierto a participar en proyectos para seguir aprendiendo, aportar valor o colaborar en análisis de datos.  
+Si tenés un set de datos, una idea o un proceso que quieras mejorar, **puedo prepararte un sample sin compromiso**.
+
+---
+
+## 📬 Contacto
+- Email: **lucafcea@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/luca-riveron-1b8766102/
+- Montevideo, Uruguay
+
