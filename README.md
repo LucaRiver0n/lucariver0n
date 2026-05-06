@@ -21,7 +21,9 @@ Busco oportunidades para colaborar en proyectos reales y seguir creciendo como A
 **Otros:**  
 - Git/GitHub  
 - Google Sheets  
-- Jupyter Notebooks  
+- Jupyter Notebooks
+- Asana
+- Hubspot
 
 ---
 
